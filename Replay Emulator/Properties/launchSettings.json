@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Replay Emulator": {
+      "commandName": "Project",
+      "commandLineArgs": "-b Map.osu -r Replay.osr",
+      "workingDirectory": "D:\\Dev\\Replay Emulator"
+    }
+  }
+}
